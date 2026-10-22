@@ -1,0 +1,16 @@
+# Archivos de entorno y credenciales
+.env
+*.env
+
+# Logs y archivos temporales
+*.log
+logs/
+
+# Archivos ejecutables y binarios
+*.exe
+*.dll
+*.so
+node_modules/
+dist/
+build/
+.DS_Store
